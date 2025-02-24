@@ -4,7 +4,7 @@ I'm a passionate developer who loves to explore new technologies and solve chall
 
 - 🌱 I’m currently learning advanced web development techniques.
 - 💼 I'm always open to collaborating on exciting projects.
-- 🛠️ I have experience with JavaScript, Python, and Java.
+- 🛠️ I have experience with JavaScript, Python, and Java
 - 🚀 I enjoy working on open-source projects and contributing to the community.
 
 ## Languages and Tools
